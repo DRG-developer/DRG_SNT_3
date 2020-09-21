@@ -26,7 +26,6 @@ class SNTThreeView extends WatchUi.WatchFace
 		var twlveclock = false;
 		var info, data, settings, value, BtInd, zeroformat;
 		var BattStats;
-		var minutefont;
 		/* ICONS MAPPER*/
 		
 		var regfont, hourfont;
@@ -167,8 +166,7 @@ class SNTThreeView extends WatchUi.WatchFace
 			scrHeight = dc.getHeight();
 			scrRadius = scrWidth / 2;
 			
-			hourfont = 14;
-			minutefont = 14;
+			hourfont = WatchUi.loadResource(Rez.Fonts.time);
 
 			if (scrHeight < 209) {
 					regfont = Graphics.FONT_MEDIUM;
@@ -241,10 +239,10 @@ class SNTThreeView extends WatchUi.WatchFace
 			if (zeroformat == true){
 				tmp = tmp.format("%02d");
 			}
-			//dc.drawText(scrRadius -2, scrRadius - 60, hourfont, tmp, Graphics.TEXT_JUSTIFY_RIGHT);
-			//dc.setColor(colMIN, -1);
-			//dc.drawText(scrRadius + 2, scrRadius - 60, minutefont, time.min.format("%02d"), Graphics.TEXT_JUSTIFY_LEFT);
-			dc.drawText(scrRadius, scrRadius, WatchUi.loadResource(Rez.Fonts.time), "0", Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+			dc.drawText(scrRadius - 8, scrRadius, hourfont, tmp,                     Graphics.TEXT_JUSTIFY_RIGHT|Graphics.TEXT_JUSTIFY_VCENTER);
+			dc.drawText(scrRadius, scrRadius,     hourfont, ":",                     Graphics.TEXT_JUSTIFY_CENTER|Graphics.TEXT_JUSTIFY_VCENTER);
+			dc.drawText(scrRadius + 8, scrRadius, hourfont, time.min.format("%02d"), Graphics.TEXT_JUSTIFY_LEFT|Graphics.TEXT_JUSTIFY_VCENTER);
+
 			time = null; tmp = null;
 		}
 		
