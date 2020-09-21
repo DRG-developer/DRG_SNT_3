@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="3" lineNum="13" pc="268435456" symbol="initialize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="3" lineNum="14" pc="268435460" symbol="initialize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="4" lineNum="18" pc="268435479" symbol="getInitialView"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="4" lineNum="19" pc="268435483" symbol="getInitialView"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="4" lineNum="20" pc="268435513" symbol="getInitialView"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="4" lineNum="21" pc="268435529" symbol="getInitialView"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="5" lineNum="25" pc="268435553" symbol="onSettingsChanged"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="5" lineNum="26" pc="268435557" symbol="onSettingsChanged"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="5" lineNum="27" pc="268435575" symbol="onSettingsChanged"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="5" lineNum="28" pc="268435591" symbol="onSettingsChanged"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="6" lineNum="31" pc="268435593" symbol="onBackgroundData"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="6" lineNum="32" pc="268435597" symbol="onBackgroundData"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="6" lineNum="33" pc="268435615" symbol="onBackgroundData"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="6" lineNum="34" pc="268435639" symbol="onBackgroundData"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="6" lineNum="35" pc="268435656" symbol="onBackgroundData"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="6" lineNum="36" pc="268435694" symbol="onBackgroundData"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="6" lineNum="37" pc="268435710" symbol="onBackgroundData"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="6" lineNum="38" pc="268435727" symbol="onBackgroundData"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="6" lineNum="40" pc="268435749" symbol="onBackgroundData"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="7" lineNum="44" pc="268435781" symbol="getServiceDelegate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeApp.mc" id="7" lineNum="45" pc="268435785" symbol="getServiceDelegate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="9" lineNum="63" pc="268436789" symbol="initialize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="9" lineNum="64" pc="268436793" symbol="initialize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="10" lineNum="68" pc="268436812" symbol="getSettings"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="10" lineNum="69" pc="268436816" symbol="getSettings"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="10" lineNum="70" pc="268436839" symbol="getSettings"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="10" lineNum="71" pc="268436856" symbol="getSettings"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="10" lineNum="72" pc="268436880" symbol="getSettings"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="10" lineNum="73" pc="268436904" symbol="getSettings"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="10" lineNum="74" pc="268436928" symbol="getSettings"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="10" lineNum="75" pc="268436952" symbol="getSettings"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="10" lineNum="76" pc="268436976" symbol="getSettings"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="80" pc="268437001" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="82" pc="268437005" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="83" pc="268437016" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="85" pc="268437036" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="86" pc="268437047" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="87" pc="268437064" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="89" pc="268437084" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="91" pc="268437104" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="92" pc="268437115" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="94" pc="268437135" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="95" pc="268437146" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="97" pc="268437166" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="98" pc="268437177" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="99" pc="268437220" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="101" pc="268437240" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="104" pc="268437260" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="105" pc="268437271" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="107" pc="268437291" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="108" pc="268437302" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="109" pc="268437319" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="111" pc="268437339" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="114" pc="268437359" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="115" pc="268437370" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="117" pc="268437390" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="118" pc="268437401" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="119" pc="268437421" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="120" pc="268437432" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="121" pc="268437452" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="122" pc="268437463" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="123" pc="268437480" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="125" pc="268437500" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="127" pc="268437520" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="128" pc="268437531" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="129" pc="268437548" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="131" pc="268437568" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="133" pc="268437588" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="134" pc="268437599" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="135" pc="268437619" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="136" pc="268437630" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="137" pc="268437673" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="139" pc="268437693" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="141" pc="268437713" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="142" pc="268437724" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="143" pc="268437747" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="146" pc="268437764" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="147" pc="268437841" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="150" pc="268437861" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="153" pc="268437884" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="154" pc="268437895" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="11" lineNum="156" pc="268437915" symbol="getField"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="12" lineNum="160" pc="268437933" symbol="onLayout"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="12" lineNum="161" pc="268437937" symbol="onLayout"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="12" lineNum="162" pc="268437960" symbol="onLayout"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="12" lineNum="165" pc="268437979" symbol="onLayout"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="12" lineNum="166" pc="268437991" symbol="onLayout"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="12" lineNum="167" pc="268438010" symbol="onLayout"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="12" lineNum="168" pc="268438029" symbol="onLayout"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="12" lineNum="170" pc="268438051" symbol="onLayout"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="12" lineNum="171" pc="268438064" symbol="onLayout"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="12" lineNum="173" pc="268438077" symbol="onLayout"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="12" lineNum="174" pc="268438094" symbol="onLayout"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="13" lineNum="180" pc="268438118" symbol="onUpdate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="13" lineNum="181" pc="268438122" symbol="onUpdate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="13" lineNum="182" pc="268438147" symbol="onUpdate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="13" lineNum="183" pc="268438159" symbol="onUpdate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="13" lineNum="184" pc="268438182" symbol="onUpdate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="13" lineNum="188" pc="268438205" symbol="onUpdate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="13" lineNum="189" pc="268438219" symbol="onUpdate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="14" lineNum="229" pc="268438245" symbol="drawBattery"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="14" lineNum="230" pc="268438249" symbol="drawBattery"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="14" lineNum="231" pc="268438268" symbol="drawBattery"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="14" lineNum="232" pc="268438336" symbol="drawBattery"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="15" lineNum="235" pc="268438346" symbol="drawTime"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="15" lineNum="236" pc="268438350" symbol="drawTime"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="15" lineNum="238" pc="268438350" symbol="drawTime"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="15" lineNum="239" pc="268438394" symbol="drawTime"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="15" lineNum="240" pc="268438419" symbol="drawTime"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="15" lineNum="241" pc="268438488" symbol="drawTime"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="15" lineNum="242" pc="268438502" symbol="drawTime"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="15" lineNum="247" pc="268438523" symbol="drawTime"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="15" lineNum="248" pc="268438616" symbol="drawTime"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="15" lineNum="248" pc="268438619" symbol="drawTime"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="16" lineNum="251" pc="268438623" symbol="drawDate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="16" lineNum="252" pc="268438627" symbol="drawDate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="16" lineNum="253" pc="268438652" symbol="drawDate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="16" lineNum="254" pc="268438652" symbol="drawDate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="16" lineNum="255" pc="268438696" symbol="drawDate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="16" lineNum="256" pc="268438754" symbol="drawDate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="16" lineNum="257" pc="268438810" symbol="drawDate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="16" lineNum="257" pc="268438813" symbol="drawDate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="17" lineNum="260" pc="268438817" symbol="Authorize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="17" lineNum="265" pc="268438821" symbol="Authorize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="17" lineNum="266" pc="268438852" symbol="Authorize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="17" lineNum="266" pc="268438859" symbol="Authorize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="17" lineNum="267" pc="268438865" symbol="Authorize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="17" lineNum="267" pc="268438881" symbol="Authorize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="17" lineNum="270" pc="268438887" symbol="Authorize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="17" lineNum="271" pc="268438907" symbol="Authorize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="17" lineNum="272" pc="268438913" symbol="Authorize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="17" lineNum="273" pc="268438933" symbol="Authorize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="17" lineNum="275" pc="268438939" symbol="Authorize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="18" lineNum="291" pc="268438943" symbol="HeartRate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="18" lineNum="292" pc="268438947" symbol="HeartRate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="18" lineNum="293" pc="268438976" symbol="HeartRate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="18" lineNum="294" pc="268438989" symbol="HeartRate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="18" lineNum="296" pc="268439037" symbol="HeartRate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="18" lineNum="297" pc="268439054" symbol="HeartRate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="18" lineNum="299" pc="268439070" symbol="HeartRate"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="19" lineNum="303" pc="268439120" symbol="Calories"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="19" lineNum="304" pc="268439124" symbol="Calories"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="20" lineNum="308" pc="268439180" symbol="Steps"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="20" lineNum="309" pc="268439184" symbol="Steps"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="21" lineNum="313" pc="268439240" symbol="Altitude"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="21" lineNum="314" pc="268439244" symbol="Altitude"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="21" lineNum="315" pc="268439267" symbol="Altitude"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="21" lineNum="316" pc="268439274" symbol="Altitude"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="21" lineNum="317" pc="268439343" symbol="Altitude"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="21" lineNum="318" pc="268439366" symbol="Altitude"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="21" lineNum="322" pc="268439382" symbol="Altitude"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="21" lineNum="324" pc="268439389" symbol="Altitude"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="21" lineNum="326" pc="268439424" symbol="Altitude"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="21" lineNum="330" pc="268439437" symbol="Altitude"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="21" lineNum="333" pc="268439444" symbol="Altitude"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="22" lineNum="337" pc="268439497" symbol="Messages"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="22" lineNum="338" pc="268439501" symbol="Messages"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="23" lineNum="342" pc="268439557" symbol="Stairs"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="23" lineNum="343" pc="268439561" symbol="Stairs"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="24" lineNum="347" pc="268439644" symbol="Alarmcount"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="24" lineNum="348" pc="268439648" symbol="Alarmcount"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="25" lineNum="353" pc="268439704" symbol="PhoneConn"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="25" lineNum="355" pc="268439708" symbol="PhoneConn"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="25" lineNum="356" pc="268439725" symbol="PhoneConn"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="25" lineNum="358" pc="268439774" symbol="PhoneConn"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="26" lineNum="363" pc="268439821" symbol="ActiveMinutesDay"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="26" lineNum="364" pc="268439825" symbol="ActiveMinutesDay"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="27" lineNum="368" pc="268439896" symbol="ActiveMinutesWeek"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="27" lineNum="369" pc="268439900" symbol="ActiveMinutesWeek"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="28" lineNum="373" pc="268439971" symbol="Battery"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="28" lineNum="374" pc="268439975" symbol="Battery"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="29" lineNum="377" pc="268440068" symbol="DistanceWeek"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="30" lineNum="381" pc="268440073" symbol="DistanceDay"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="30" lineNum="382" pc="268440077" symbol="DistanceDay"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="30" lineNum="383" pc="268440077" symbol="DistanceDay"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="30" lineNum="384" pc="268440108" symbol="DistanceDay"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="30" lineNum="385" pc="268440121" symbol="DistanceDay"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="30" lineNum="387" pc="268440137" symbol="DistanceDay"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="30" lineNum="390" pc="268440156" symbol="DistanceDay"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="30" lineNum="391" pc="268440188" symbol="DistanceDay"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="30" lineNum="393" pc="268440198" symbol="DistanceDay"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="30" lineNum="394" pc="268440217" symbol="DistanceDay"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="30" lineNum="397" pc="268440224" symbol="DistanceDay"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="31" lineNum="400" pc="268440300" symbol="DeviceTemp"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="31" lineNum="401" pc="268440304" symbol="DeviceTemp"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="31" lineNum="402" pc="268440339" symbol="DeviceTemp"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="31" lineNum="403" pc="268440374" symbol="DeviceTemp"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="31" lineNum="404" pc="268440406" symbol="DeviceTemp"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="31" lineNum="406" pc="268440443" symbol="DeviceTemp"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="31" lineNum="409" pc="268440465" symbol="DeviceTemp"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="31" lineNum="411" pc="268440541" symbol="DeviceTemp"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="414" pc="268440575" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="415" pc="268440579" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="416" pc="268440602" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="418" pc="268440619" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="419" pc="268440626" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="420" pc="268440639" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="421" pc="268440673" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="423" pc="268440710" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="424" pc="268440733" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="425" pc="268440740" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="426" pc="268440753" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="427" pc="268440787" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="433" pc="268440824" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="434" pc="268440842" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="435" pc="268440849" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="32" lineNum="438" pc="268440898" symbol="Weather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="33" lineNum="443" pc="268440966" symbol="EmptyF"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="33" lineNum="444" pc="268440970" symbol="EmptyF"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="34" lineNum="448" pc="268441017" symbol="Invalid"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="34" lineNum="449" pc="268441021" symbol="Invalid"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="35" lineNum="452" pc="268441068" symbol="Premium"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/SNTThreeView.mc" id="35" lineNum="453" pc="268441072" symbol="Premium"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="37" lineNum="11" pc="268435823" symbol="initialize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="37" lineNum="12" pc="268435827" symbol="initialize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="37" lineNum="13" pc="268435849" symbol="initialize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="37" lineNum="14" pc="268435888" symbol="initialize"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="38" lineNum="18" pc="268435905" symbol="onTemporalEvent"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="38" lineNum="20" pc="268435909" symbol="onTemporalEvent"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="39" lineNum="24" pc="268435922" symbol="getWeather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="39" lineNum="25" pc="268435926" symbol="getWeather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="39" lineNum="27" pc="268435926" symbol="getWeather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="39" lineNum="28" pc="268435957" symbol="getWeather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="39" lineNum="29" pc="268435988" symbol="getWeather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="39" lineNum="30" pc="268436006" symbol="getWeather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="39" lineNum="33" pc="268436024" symbol="getWeather"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="40" lineNum="63" pc="268436199" symbol="onReceiveWeatherdata"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="40" lineNum="64" pc="268436203" symbol="onReceiveWeatherdata"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="40" lineNum="65" pc="268436214" symbol="onReceiveWeatherdata"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="40" lineNum="66" pc="268436232" symbol="onReceiveWeatherdata"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="40" lineNum="68" pc="268436267" symbol="onReceiveWeatherdata"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="40" lineNum="79" pc="268436509" symbol="onReceiveWeatherdata"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="40" lineNum="88" pc="268436668" symbol="onReceiveWeatherdata"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="40" lineNum="89" pc="268436689" symbol="onReceiveWeatherdata"/>
+<entry filename="/home/dev/dev-env/DRG-SNT-3/source/backgroundService.mc" id="40" lineNum="90" pc="268436707" symbol="onReceiveWeatherdata"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="66" method="true" symbol="Altitude"/>
+<entry field="true" id="8388936" method="true" symbol="info"/>
+<entry id="61" method="true" symbol="drawDate"/>
+<entry id="80" method="true" symbol="Premium"/>
+<entry field="true" id="20" symbol="colBg"/>
+<entry field="true" id="39" symbol="colBG"/>
+<entry id="65" method="true" symbol="Steps"/>
+<entry field="true" id="22" symbol="green"/>
+<entry id="57" method="true" symbol="getSettings"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="50" symbol="regfont"/>
+<entry field="true" id="53" symbol="monthOfYearArr"/>
+<entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+<entry id="79" method="true" symbol="Invalid"/>
+<entry field="true" id="56" symbol="scrHeight"/>
+<entry id="71" method="true" symbol="ActiveMinutesDay"/>
+<entry field="true" id="33" symbol="gray"/>
+<entry id="8389800" method="true" symbol="getTemperatureHistory"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry id="72" method="true" symbol="ActiveMinutesWeek"/>
+<entry id="69" method="true" symbol="Alarmcount"/>
+<entry id="78" method="true" symbol="EmptyF"/>
+<entry field="true" id="46" symbol="BtInd"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="48" symbol="BattStats"/>
+<entry id="63" method="true" symbol="HeartRate"/>
+<entry field="true" id="35" symbol="blue"/>
+<entry field="true" id="51" symbol="hourfont"/>
+<entry id="60" method="true" symbol="drawTime"/>
+<entry id="68" method="true" symbol="Stairs"/>
+<entry field="true" id="28" symbol="AppName"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry field="true" id="8389807" symbol="data"/>
+<entry id="8389594" symbol="headers"/>
+<entry field="true" id="44" symbol="twlveclock"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="38" symbol="lightgray"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry id="8390147" object="true" symbol="ServiceDelegate"/>
+<entry field="true" id="36" symbol="colLine"/>
+<entry field="true" id="8388947" method="true" symbol="value"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="26" symbol="colDate"/>
+<entry id="8390148" method="true" symbol="onTemporalEvent"/>
+<entry id="14" method="true" symbol="onReceiveWeatherdata"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="24" symbol="yellow"/>
+<entry id="75" method="true" symbol="DistanceDay"/>
+<entry id="62" method="true" symbol="Authorize"/>
+<entry id="77" method="true" symbol="Weather"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="67" method="true" symbol="Messages"/>
+<entry field="true" id="37" symbol="anotherblue"/>
+<entry id="8390169" method="true" symbol="getServiceDelegate"/>
+<entry id="17" module="true" symbol="Menus"/>
+<entry field="true" id="52" symbol="dayOfWeekArr"/>
+<entry field="true" id="8389869" symbol="activeMinutesWeek"/>
+<entry id="59" method="true" symbol="drawBattery"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="70" method="true" symbol="PhoneConn"/>
+<entry field="true" id="19" symbol="time"/>
+<entry field="true" id="43" symbol="colLINE"/>
+<entry field="true" id="40" symbol="colDATE"/>
+<entry field="true" id="34" symbol="white"/>
+<entry id="8389802" method="true" symbol="getElevationHistory"/>
+<entry field="true" id="23" symbol="anothergreen"/>
+<entry field="true" id="25" symbol="black"/>
+<entry field="true" id="47" symbol="zeroformat"/>
+<entry id="8390170" method="true" symbol="onBackgroundData"/>
+<entry id="8389809" symbol="order"/>
+<entry field="true" id="8389870" symbol="activeMinutesDay"/>
+<entry id="8389844" symbol="responseType"/>
+<entry field="true" id="31" symbol="orange"/>
+<entry id="8388786" method="true" symbol="method"/>
+<entry id="9" object="true" symbol="SNTThreeWatch"/>
+<entry field="true" id="49" symbol="minutefont"/>
+<entry field="true" id="30" symbol="red"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="32" symbol="yetanotherblue"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="29" symbol="colDatafield"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="15" symbol="counter"/>
+<entry field="true" id="18" symbol="LauncherIcon"/>
+<entry field="true" id="21" symbol="colHour"/>
+<entry field="true" id="8390522" symbol="key"/>
+<entry field="true" id="55" symbol="scrWidth"/>
+<entry id="76" method="true" symbol="DeviceTemp"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="73" method="true" symbol="Battery"/>
+<entry id="8390146" module="true" symbol="Background"/>
+<entry field="true" id="8389872" symbol="floorsClimbed"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="27" symbol="colMin"/>
+<entry id="8389808" symbol="period"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="45" symbol="settings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="54" symbol="scrRadius"/>
+<entry field="true" id="12" symbol="unit"/>
+<entry id="11" object="true" symbol="SNTThreeServiceDelegate"/>
+<entry id="13" method="true" symbol="getWeather"/>
+<entry id="8389781" module="true" symbol="SensorHistory"/>
+<entry id="74" method="true" symbol="DistanceWeek"/>
+<entry id="16" module="true" symbol="Layouts"/>
+<entry field="true" id="41" symbol="colHOUR"/>
+<entry id="64" method="true" symbol="Calories"/>
+<entry id="8388642" module="true" symbol="Position"/>
+<entry id="10" object="true" symbol="SNTThreeView"/>
+<entry id="58" method="true" symbol="getField"/>
+<entry field="true" id="42" symbol="colMIN"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="8389023" object="true" symbol="View"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435781" name="data" stackId="1" startPc="268435593"/>
+<entry endPc="268437000" name="app" stackId="1" startPc="268436816"/>
+<entry endPc="268437933" name="values" stackId="1" startPc="268437001"/>
+<entry endPc="268438118" name="dc" stackId="1" startPc="268437933"/>
+<entry endPc="268438245" name="dc" stackId="1" startPc="268438118"/>
+<entry endPc="268438346" name="dc" stackId="1" startPc="268438245"/>
+<entry endPc="268438622" name="tmp" stackId="3" startPc="268438350"/>
+<entry endPc="268438622" name="time" stackId="2" startPc="268438350"/>
+<entry endPc="268438623" name="dc" stackId="1" startPc="268438346"/>
+<entry endPc="268438816" name="datestring" stackId="2" startPc="268438627"/>
+<entry endPc="268438816" name="time" stackId="3" startPc="268438627"/>
+<entry endPc="268438817" name="dc" stackId="1" startPc="268438623"/>
+<entry endPc="268438942" name="tmpString" stackId="1" startPc="268438821"/>
+<entry endPc="268439496" name="value" stackId="1" startPc="268439244"/>
+<entry endPc="268440299" name="unit" stackId="1" startPc="268440077"/>
+<entry endPc="268440965" name="weatherdata" stackId="3" startPc="268440579"/>
+<entry endPc="268440965" name="location" stackId="1" startPc="268440579"/>
+<entry endPc="268440965" name="app" stackId="2" startPc="268440579"/>
+<entry endPc="268436198" name="lat" stackId="1" startPc="268435926"/>
+<entry endPc="268436198" name="lon" stackId="2" startPc="268435926"/>
+<entry endPc="268436749" name="result" stackId="4" startPc="268436267"/>
+<entry endPc="268436749" name="weatherlookuptable" stackId="3" startPc="268436267"/>
+<entry endPc="268436750" name="response" stackId="1" startPc="268436199"/>
+<entry endPc="268436750" name="data" stackId="2" startPc="268436199"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="background_method" class="SNTThreeServiceDelegate" module="globals" symbol="initialize"/>
+<annotationEntry annotation="background_method" class="SNTThreeServiceDelegate" module="globals" symbol="onTemporalEvent"/>
+<annotationEntry annotation="background_method" class="SNTThreeServiceDelegate" module="globals" symbol="getWeather"/>
+<annotationEntry annotation="background_method" class="SNTThreeServiceDelegate" module="globals" symbol="onReceiveWeatherdata"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="158" parentId="globals" symbolId="SNTThreeServiceDelegate" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="SNTThreeWatch" type="class"/>
+<dataEntry offset="1046" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="1125" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="1164" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="1195" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1234" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1265" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1296" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1487" parentId="globals" symbolId="SNTThreeView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="SNTThreeWatch">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="SNTThreeWatch">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="SNTThreeWatch">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBackgroundData" parent="SNTThreeWatch">
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getServiceDelegate" parent="SNTThreeWatch">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSettings" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getField" parent="SNTThreeView">
+<param id="values"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="SNTThreeView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="SNTThreeView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBattery" parent="SNTThreeView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTime" parent="SNTThreeView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDate" parent="SNTThreeView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Authorize" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="HeartRate" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Calories" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Steps" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Altitude" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Messages" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Stairs" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Alarmcount" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="PhoneConn" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="ActiveMinutesDay" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="ActiveMinutesWeek" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Battery" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="DistanceWeek" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="DistanceDay" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="DeviceTemp" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Weather" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="EmptyF" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Invalid" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="Premium" parent="SNTThreeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SNTThreeServiceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTemporalEvent" parent="SNTThreeServiceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getWeather" parent="SNTThreeServiceDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onReceiveWeatherdata" parent="SNTThreeServiceDelegate">
+<param id="response"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

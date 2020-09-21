@@ -1,0 +1,113 @@
+<settings>
+	
+	<setting propertyKey="@Properties.keys" title="@Strings.key">
+		<settingConfig type="alphaNumeric"></settingConfig>
+	</setting>
+
+		
+	<setting propertyKey="@Properties.colHour" title="@Strings.colHour">
+		<settingConfig type="list">
+			<listEntry value="0">@Strings.black</listEntry>
+			<listEntry value="5592405">@Strings.gray</listEntry>
+			<listEntry value="11184810">@Strings.lightgray</listEntry>
+			<listEntry value="16777215">@Strings.white</listEntry>	
+			<listEntry value="16776960">@Strings.yellow</listEntry>
+			<listEntry value="16711680">@Strings.red</listEntry>	
+			<listEntry value="65280">@Strings.green</listEntry>	
+			<listEntry value="11206400">@Strings.anothergreen</listEntry>	
+			<listEntry value="255">@Strings.blue</listEntry>	
+			<listEntry value="43775">@Strings.anotherblue</listEntry>	
+			<listEntry value="5636095">@Strings.yetanotherblue</listEntry>	
+			<listEntry value="16733440">@Strings.orange</listEntry>		
+		</settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.colMin" title="@Strings.colMin">
+		<settingConfig type="list">
+			<listEntry value="0">@Strings.black</listEntry>
+			<listEntry value="5592405">@Strings.gray</listEntry>
+			<listEntry value="11184810">@Strings.lightgray</listEntry>
+			<listEntry value="16777215">@Strings.white</listEntry>	
+			<listEntry value="16776960">@Strings.yellow</listEntry>
+			<listEntry value="16711680">@Strings.red</listEntry>	
+			<listEntry value="65280">@Strings.green</listEntry>	
+			<listEntry value="11206400">@Strings.anothergreen</listEntry>	
+			<listEntry value="255">@Strings.blue</listEntry>	
+			<listEntry value="43775">@Strings.anotherblue</listEntry>	
+			<listEntry value="5636095">@Strings.yetanotherblue</listEntry>	
+			<listEntry value="16733440">@Strings.orange</listEntry>		
+		</settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.colDatafield" title="@Strings.colDatafield">
+		<settingConfig type="list">
+			<listEntry value="0">@Strings.black</listEntry>
+			<listEntry value="5592405">@Strings.gray</listEntry>
+			<listEntry value="11184810">@Strings.lightgray</listEntry>
+			<listEntry value="16777215">@Strings.white</listEntry>	
+			<listEntry value="16776960">@Strings.yellow</listEntry>	
+			<listEntry value="16711680">@Strings.red</listEntry>	
+			<listEntry value="65280">@Strings.green</listEntry>	
+			<listEntry value="11206400">@Strings.anothergreen</listEntry>	
+			<listEntry value="255">@Strings.blue</listEntry>	
+			<listEntry value="43775">@Strings.anotherblue</listEntry>	
+			<listEntry value="5636095">@Strings.yetanotherblue</listEntry>	
+			<listEntry value="16733440">@Strings.orange</listEntry>	
+		</settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.colDate" title="@Strings.colDate">
+		<settingConfig type="list">
+			<listEntry value="0">@Strings.black</listEntry>
+			<listEntry value="5592405">@Strings.gray</listEntry>
+			<listEntry value="11184810">@Strings.lightgray</listEntry>
+			<listEntry value="16777215">@Strings.white</listEntry>
+			<listEntry value="16776960">@Strings.yellow</listEntry>
+			<listEntry value="16711680">@Strings.red</listEntry>	
+			<listEntry value="65280">@Strings.green</listEntry>	
+			<listEntry value="11206400">@Strings.anothergreen</listEntry>	
+			<listEntry value="255">@Strings.blue</listEntry>	
+			<listEntry value="43775">@Strings.anotherblue</listEntry>	
+			<listEntry value="5636095">@Strings.yetanotherblue</listEntry>	
+			<listEntry value="16733440">@Strings.orange</listEntry>			
+		</settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.colLine" title="@Strings.colLine">
+		<settingConfig type="list">
+			<listEntry value="0">@Strings.black</listEntry>
+			<listEntry value="5592405">@Strings.gray</listEntry>
+			<listEntry value="11184810">@Strings.lightgray</listEntry>
+			<listEntry value="16777215">@Strings.white</listEntry>
+			<listEntry value="16776960">@Strings.yellow</listEntry>
+			<listEntry value="16711680">@Strings.red</listEntry>	
+			<listEntry value="65280">@Strings.green</listEntry>	
+			<listEntry value="11206400">@Strings.anothergreen</listEntry>	
+			<listEntry value="255">@Strings.blue</listEntry>	
+			<listEntry value="43775">@Strings.anotherblue</listEntry>	
+			<listEntry value="5636095">@Strings.yetanotherblue</listEntry>	
+			<listEntry value="16733440">@Strings.orange</listEntry>			
+		</settingConfig>
+	</setting>
+	
+	<setting propertyKey="@Properties.colBg" title="@Strings.colBg">
+		<settingConfig type="list">
+			<listEntry value="0">@Strings.black</listEntry>
+			<listEntry value="5592405">@Strings.gray</listEntry>
+			<listEntry value="11184810">@Strings.lightgray</listEntry>
+			<listEntry value="16777215">@Strings.white</listEntry>
+			<listEntry value="16776960">@Strings.yellow</listEntry>
+			<listEntry value="16711680">@Strings.red</listEntry>	
+			<listEntry value="65280">@Strings.green</listEntry>	
+			<listEntry value="11206400">@Strings.anothergreen</listEntry>	
+			<listEntry value="255">@Strings.blue</listEntry>	
+			<listEntry value="43775">@Strings.anotherblue</listEntry>	
+			<listEntry value="5636095">@Strings.yetanotherblue</listEntry>	
+			<listEntry value="16733440">@Strings.orange</listEntry>			
+		</settingConfig>
+	</setting>
+	
+	
+	
+</settings>	
+	

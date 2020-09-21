@@ -1,0 +1,9 @@
+<properties>
+	<property id="colHour" 		  type="number">16777215</property>
+	<property id="colMin" 		  type="number">5592405</property>
+	<property id="colDatafield"   	  type="number">11184810</property>
+	<property id="colLine" 		  type="number">5592405</property>
+	<property id="colBg" 		  type="number">0</property>
+	<property id="keys"		  type="string">empty</property>
+	<property id="colDate" 		  type="number">11184810</property>	
+</properties>

@@ -1,0 +1,3 @@
+<resources>
+    <font id="time" antialias="true" filename="fonts/font_SNT-3.fnt" filter="0123456789:"/>
+</resources>
