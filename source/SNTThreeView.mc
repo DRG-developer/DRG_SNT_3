@@ -254,7 +254,7 @@ class SNTThreeView extends WatchUi.WatchFace
 			var segments = (data[0].toFloat() / data[3].toNumber()) * 36;
 						
 			for (var i = 0; i < segments; i++) {	
-				var startseg =  i * 10 + 90;
+				var startseg =  i * 10 + 91;
 				var endseg = startseg + 8;
 				
 				for (var c = 0; c < 10; c++) {
@@ -270,7 +270,7 @@ class SNTThreeView extends WatchUi.WatchFace
 			var centerY = scrRadius;
 
 			dc.setColor(0x555555, -1);
-			for (var i = 0, angle = 2.156; i < 36; i ++) {
+			for (var i = 0, angle = 0; i < 36; i ++) {
 				var iedge, cos, sin, x1, y1, x2, y2;
 
 						
@@ -291,6 +291,10 @@ class SNTThreeView extends WatchUi.WatchFace
 				angle += radians;
 				
 			}
+		}
+		
+		function trend(dc) {
+			
 		}
 		
 		function drawDate(dc){
