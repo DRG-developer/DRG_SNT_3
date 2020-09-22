@@ -1,3 +1,5 @@
+// copyright 2020 Dexter Braunius
+
 using Toybox.Graphics;
 using Toybox.Lang;
 using Toybox.Math;
@@ -18,7 +20,7 @@ class SNTThreeView extends WatchUi.WatchFace
 {
 		var colBG	 = 0x000000;
 		var colDATE 	 = 0x555555;
-		var colHOUR 	 = 0xFFFFFF;
+		var colHOUR 	 = 0x555500;
 		var colMIN	 = 0x555555;
 		var colLINE 	 = 0x555555;
 		var colDatafield = 0x555555;
@@ -182,7 +184,7 @@ class SNTThreeView extends WatchUi.WatchFace
 			settings = Sys.getDeviceSettings();
 			
 			
-	
+			drawCircle(dc);
 			drawTime(dc);
 			dc.setColor(colDatafield, -1);
 			
@@ -234,7 +236,7 @@ class SNTThreeView extends WatchUi.WatchFace
 			var time;
 			
 			time = Gregorian.info(Time.now(), Time.FORMAT_MEDIUM);
-			dc.setColor(colHOUR, -1);
+			dc.setColor(0x555500, -1);
 			var tmp = (twlveclock == false ? time.hour : (time.hour > 12 ? time.hour - 12 : time.hour));
 			if (zeroformat == true){
 				tmp = tmp.format("%02d");
@@ -244,6 +246,51 @@ class SNTThreeView extends WatchUi.WatchFace
 			dc.drawText(scrRadius + 8, scrRadius, hourfont, time.min.format("%02d"), Graphics.TEXT_JUSTIFY_LEFT|Graphics.TEXT_JUSTIFY_VCENTER);
 
 			time = null; tmp = null;
+		}
+		
+		function drawCircle(dc) {
+			dc.setColor(0x555500, -1);
+			data = Battery();
+			var segments = (data[0].toFloat() / data[3].toNumber()) * 36;
+						
+			for (var i = 0; i < segments; i++) {	
+				var startseg =  i * 10 + 90;
+				var endseg = startseg + 8;
+				
+				for (var c = 0; c < 10; c++) {
+					dc.drawArc(scrRadius, scrRadius, scrRadius - c, 0, startseg, endseg);
+				}	
+			}
+			dc.setColor(0x555555, -1);
+			dc.drawArc(scrRadius, scrRadius, scrRadius - 13, 0, 360, 0);
+			
+			var oedge = scrRadius - 14;
+			var radians = Math.PI / 18.0; // * 2.0 / 96.0
+			var centerX = scrRadius;
+			var centerY = scrRadius;
+
+			dc.setColor(0x555555, -1);
+			for (var i = 0, angle = 2.156; i < 36; i ++) {
+				var iedge, cos, sin, x1, y1, x2, y2;
+
+						
+				dc.setPenWidth(1);
+				iedge = oedge + 4;
+			
+
+				cos = Math.cos(angle);
+				sin = Math.sin(angle);
+
+				x1 = cos * iedge;
+				y1 = sin * iedge;
+				x2 = cos * oedge;
+				y2 = sin * oedge;
+
+				dc.drawLine(centerX + x1, centerY + y1, centerX + x2, centerY + y2);
+
+				angle += radians;
+				
+			}
 		}
 		
 		function drawDate(dc){
@@ -304,7 +351,7 @@ class SNTThreeView extends WatchUi.WatchFace
 	
 	
 	function Steps(){
-		return [info.steps , "c", ""];
+		return [info.steps , "c", "", info.stepGoal];
 	}
 	
 
@@ -338,7 +385,7 @@ class SNTThreeView extends WatchUi.WatchFace
 	
 	
 	function Stairs(){
-		return [(info.floorsClimbed == null ?  "-.-" :  info.floorsClimbed), "f", ""];
+		return [(info.floorsClimbed == null ?  "-.-" :  info.floorsClimbed), "f", "", info.floorsClimbedGoal];
 	}
 	
 	
@@ -369,7 +416,7 @@ class SNTThreeView extends WatchUi.WatchFace
 	
 	
 	function Battery(){
-		return [((Sys.getSystemStats().battery + 0.5).toNumber().toString() + "%"), "j", ""];
+		return [((Sys.getSystemStats().battery + 0.5).toNumber().toString() + "%"), "j", "", 100];
 	}
 	
 	function DistanceWeek(){
